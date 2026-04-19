@@ -1,4 +1,4 @@
-# 🎬 A Minecraft Movie (2025) – Complete Guide
+# 🎬 A Minecraft Movie (2025) – Watch 4K Online FREE Streaming Complete Guide
 
 > Your ultimate SEO-friendly guide to **A Minecraft Movie (2025)** including cast, release date, runtime, reviews, streaming, and more.
 
