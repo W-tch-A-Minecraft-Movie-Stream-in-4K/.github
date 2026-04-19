@@ -11,6 +11,7 @@
 The film follows a group of ordinary people who are suddenly transported into the **Overworld**, where creativity, survival, and teamwork become the keys to returning home. :contentReference[oaicite:0]{index=0}
 
 ---
+<br>
 <a href="https://example.com" target="_blank" 
    style="display:inline-block;
           padding:12px 22px;
@@ -66,6 +67,10 @@ The film follows a group of ordinary people who are suddenly transported into th
           box-shadow:0 2px 6px rgba(0,0,0,0.15);">
    ▶️ Watch on Server #4
 </a>
+<br>
+<br>
+<br>
+
 ## Minecraft Movie Release Date
 
 - **Theatrical Release:** April 4, 2025 :contentReference[oaicite:1]{index=1}  
